@@ -1,6 +1,6 @@
 # backuper
 
-
+Backuper ist ein Tool um Backups auf Servern mithilfe von Docker und RClone in eine AWS Instanz zu erstellen.
  
 CRONTAB:
 
