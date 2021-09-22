@@ -1,0 +1,9 @@
+tmpPath: "/home/pi/db-backup"
+timeout: 5
+bucket: schoppenbank-backup
+connectionName: aws
+commands:
+  - name: Schoppenbank
+    command: "docker exec dsdsadsad"
+  - name: Not Working Command
+    command: "dsadsadawdw2ec ##path##/##date##"
